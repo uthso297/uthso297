@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 💻 Exploring Next.js for building static sites<br>- 📚 Learning TypeScript to enhance my JS projects<br>- 🚀 Contributing to open-source projects related to [technology/topic]</p>
+<p align="left">- 💻 Exploring Next.js for building static sites<br>- 📚 Learning TypeScript to enhance my JS projects<br>- 🚀 Exploring Data Structures and Algorithms</p>
 
 ###
 
