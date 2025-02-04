@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm a passionate developer with a focus on creating robust and scalable web applications. I love to explore new technologies and constantly push my limits to improve my skills. Currently, I’m diving into next.js,typescript,mySQL. In my free time, I enjoy reading and learning about new technologies./p>
+<p align="left">I'm a passionate developer with a focus on creating robust and scalable web applications. I love to explore new technologies and constantly push my limits to improve my skills. Currently, I’m diving into next.js,typescript,mySQL. In my free time, I enjoy reading and learning about new technologies.</p>
 
 ###
 
