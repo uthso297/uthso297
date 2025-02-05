@@ -120,9 +120,10 @@
 
 
  
- <a href="https://streak-stats.demolab.com?user=uthso297&theme=radical">
-  <img src="https://streak-stats.demolab.com?user=uthso297&theme=radical" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uthso297" alt="GitHub Streak" />
 </a>
+
 
 
 
