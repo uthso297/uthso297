@@ -118,12 +118,12 @@
 
 ###
 
-<div align="center">
+
  
  <a href="https://streak-stats.demolab.com?user=uthso297&theme=radical">
   <img src="https://streak-stats.demolab.com?user=uthso297&theme=radical" alt="GitHub Streak" />
 </a>
 
-</div>
+
 
 ###
