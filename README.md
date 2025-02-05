@@ -119,7 +119,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uthso297&theme=dracula" alt="GitHub Streak" height="150" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uthso297&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 ###
