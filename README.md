@@ -137,12 +137,8 @@
 
 ###
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=uthso297&theme=default" alt="GitHub Streak"/>
-  </a>
-</p>
-
-
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uthso297&theme=radical" alt="GitHub Streak" /></a>
+</div>
 
 ###
