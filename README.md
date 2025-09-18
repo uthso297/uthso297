@@ -19,7 +19,7 @@ I enjoy tackling challenges in **OOP** and **DSA**, and I’m always pushing my 
 - 🔭 **Currently Building**: MERN & Next.js projects  
 - 🌱 **Learning**: PostgreSQL & Advanced TypeScript  
 - 💡 **Expertise**: React, Next.js, Express, MongoDB, Node.js  
-- 📫 **Reach me**: [uthso297@gmail.com](mailto:uthso297@gmail.com)  
+- 📫 **Reach me**: [uthso119464@gmail.com](mailto:uthso119464@gmail.com)  
 
 ---
 
