@@ -38,10 +38,14 @@ I enjoy tackling challenges in **OOP** and **DSA**, and I’m always pushing my 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures-008000?style=for-the-badge&logo=graph&logoColor=white)
+
+### **Core CS Concepts**
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=googlescholar&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-008000?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### **Tools & Platforms**
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
