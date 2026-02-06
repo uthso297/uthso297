@@ -58,9 +58,7 @@ I enjoy tackling challenges in **OOP** and **DSA**, and I’m always pushing my 
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img  width=390  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uthso297&theme=react&border=61dafb&hide_border=true" alt="uthso297" />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uthso297&theme=dark" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img  width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=uthso297&show_icons=true&locale=en&theme=react&border=61dafb&hide_border=true" alt="uthso297" />
     </a>
